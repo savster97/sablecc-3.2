@@ -1,0 +1,5 @@
+exclude:
+- /bin/.*
+- /doc/.*
+- /etc/.*
+- /lib/.*
