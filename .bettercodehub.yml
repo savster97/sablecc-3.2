@@ -1,5 +1,7 @@
 exclude:
-- /bin/.*
-- /doc/.*
-- /etc/.*
-- /lib/.*
+  - /bin/.*
+  - /doc/.*
+  - /etc/.*
+  - /lib/.*
+include:
+  - /src/.*
